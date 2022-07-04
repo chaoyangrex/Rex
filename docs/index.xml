@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>朝阳Rex</title>
+    <link>https://chaoyangrex.github.io/rex/</link>
+    <description>Recent content on 朝阳Rex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jul 2022 14:56:06 +0800</lastBuildDate><atom:link href="https://chaoyangrex.github.io/rex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>https://chaoyangrex.github.io/rex/posts/demo/</link>
+      <pubDate>Mon, 04 Jul 2022 14:56:06 +0800</pubDate>
+      
+      <guid>https://chaoyangrex.github.io/rex/posts/demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
